@@ -49,17 +49,18 @@
 3. The document will appear as **Checked Out** to you.
 
 #### Step 2 – Check In the Document
-- **Major Version (auto-triggers approval):**
-  1. Right-click the document > **Check In**.
-  2. Select **Major Version (Publish)**.
-  3. Add a version comment (optional) > Click **OK**.
-  4. ✅ The approval workflow starts automatically.
 
-- **Minor Version (manual trigger):**
-  1. Click the **Check In** button on the document toolbar.
-  2. Select **Minor Version**.
-  3. Click **OK**.
-  4. ✅ The approval workflow starts.
+**Major Version (auto-triggers approval):**
+1. Right-click the document > **Check In**.
+2. Select **Major Version (Publish)**.
+3. Add a version comment (optional) > Click **OK**.
+4. ✅ The approval workflow starts automatically.
+
+**Minor Version (manual trigger):**
+1. Click the **Check In** button on the document toolbar.
+2. Select **Minor Version**.
+3. Click **OK**.
+4. ✅ The approval workflow starts.
 
 #### Step 3 – Wait for Notifications
 You will receive a **Teams message** and **email** from the Workflow Bot when:
